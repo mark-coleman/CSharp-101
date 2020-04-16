@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-HelloWorld", "Ex1-HelloWorld\Ex1-HelloWorld.csproj", "{30F2B717-1C0B-443E-8DAE-3322D99D324B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-LoopsAndConditions", "Ex2-LoopsAndConditions\Ex2-LoopsAndConditions.csproj", "{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{30F2B717-1C0B-443E-8DAE-3322D99D324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F2B717-1C0B-443E-8DAE-3322D99D324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F2B717-1C0B-443E-8DAE-3322D99D324B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
