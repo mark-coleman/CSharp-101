@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-LoopsAndConditions", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Multiplication", "Ex3-Multiplication\Ex3-Multiplication.csproj", "{2068D35F-15A6-47F3-853A-63746593DFC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4-Text", "Ex4-Text\Ex4-Text.csproj", "{ABB53EC1-E864-459B-A68D-61316E061199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2068D35F-15A6-47F3-853A-63746593DFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2068D35F-15A6-47F3-853A-63746593DFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2068D35F-15A6-47F3-853A-63746593DFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB53EC1-E864-459B-A68D-61316E061199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB53EC1-E864-459B-A68D-61316E061199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB53EC1-E864-459B-A68D-61316E061199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB53EC1-E864-459B-A68D-61316E061199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
