@@ -6,7 +6,10 @@ namespace Ex1_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Please enter your name...");
+            string name = Console.ReadLine();
+
+            Console.WriteLine($"Hello {name}, nice to meet you");
             Console.ReadLine();
         }
     }
