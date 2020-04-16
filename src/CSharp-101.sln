@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-HelloWorld", "Ex1-Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-LoopsAndConditions", "Ex2-LoopsAndConditions\Ex2-LoopsAndConditions.csproj", "{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Multiplication", "Ex3-Multiplication\Ex3-Multiplication.csproj", "{2068D35F-15A6-47F3-853A-63746593DFC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D22A54E5-5FD9-4A97-86AA-DB91E5F3878A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2068D35F-15A6-47F3-853A-63746593DFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2068D35F-15A6-47F3-853A-63746593DFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2068D35F-15A6-47F3-853A-63746593DFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2068D35F-15A6-47F3-853A-63746593DFC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
