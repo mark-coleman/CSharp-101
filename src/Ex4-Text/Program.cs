@@ -13,7 +13,8 @@ namespace Ex4_Text
             Console.Write("Please enter a sentence > ");
             var text = Console.ReadLine();
 
-            Console.WriteLine(text.ToUpper());
+            
+            Console.WriteLine(text.ToUpper().Replace(" ", ""));
             Console.ReadLine();
         }
     }
